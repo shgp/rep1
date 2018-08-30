@@ -7,5 +7,6 @@ lollipop
 curry
 kheema
 mutton
+dal
 
 Done
